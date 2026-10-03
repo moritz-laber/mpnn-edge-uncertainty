@@ -1,0 +1,9 @@
+diffrax==0.7.0
+equinox==0.13.0
+jax==0.6.2
+jaxtyping==0.3.2
+numpy==2.3.1
+optax==0.2.5
+pandas=2.2.3
+scikit-learn==1.9.1
+scipy==1.15.3
